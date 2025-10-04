@@ -14,6 +14,7 @@ Pricing Distribution: Explores minimum, average, and maximum prices for each mod
 -Dashboard Interaction <a href="https://github.com/vikaschennarapu/BMW-DASHBOARD/blob/main/BMW%20DASHBOARD.png">View Dashboard</a>
 ## Technologies Used
 Power BI Desktop: For interactive analytics, advanced data modeling, and rich visualizations.
+
 Data Sources: Cleaned and structured datasets capturing sales transactions, model features, regional breakdowns, and performance metrics.
 
 -Global Sales <a href="https://github.com/vikaschennarapu/BMW-DASHBOARD/blob/main/SALES%20BY%20REGION%20(VISUALIZATION).png"> Visualization
