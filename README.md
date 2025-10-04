@@ -15,7 +15,16 @@ Pricing Distribution: Explores minimum, average, and maximum prices for each mod
 ## Technologies Used
 Power BI Desktop: For interactive analytics, advanced data modeling, and rich visualizations.
 Data Sources: Cleaned and structured datasets capturing sales transactions, model features, regional breakdowns, and performance metrics.
+
+-Global Sales <a href="https://github.com/vikaschennarapu/BMW-DASHBOARD/blob/main/SALES%20BY%20REGION%20(VISUALIZATION).png"> Visualization
 ## Use Cases
 Business intelligence and reporting for automotive sales
 Trend analysis and forecasting for inventory planning
 Market segmentation and customer profiling
+
+-Specifications <a href="https://github.com/vikaschennarapu/BMW-DASHBOARD/blob/main/SPECIFICATIONS.png">View Specifications
+
+-Tabular Calculations <a href="https://github.com/vikaschennarapu/BMW-DASHBOARD/blob/main/TABULAR%20CALCULATIONS.png">View Tables
+## Dashboard
+<img width="940" height="538" alt="image" src="https://github.com/user-attachments/assets/07f9361a-14ce-4cb6-842f-3f74c0f26bf7" />
+
